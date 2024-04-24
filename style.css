@@ -1,0 +1,51 @@
+*
+{
+    background-color: black;
+}
+
+.name
+{
+    text-align: center;
+    color: blueviolet;
+    position: sticky;
+    top: 0;
+}
+.first
+{
+    text-align: center;
+    margin: auto;
+    border: solid 10px blue;
+    width: fit-content;
+} 
+.second
+{
+    margin: auto;
+    text-align: center;
+    border: solid 10px blue;
+    width: fit-content;
+}
+.picture
+{
+    margin: auto;
+    border: solid 10px blue;
+    width: fit-content;
+}
+.img
+{
+        height: 250px;
+}
+
+.name-under
+{
+    text-align: center;
+    margin: auto;
+    color: aliceblue;
+}
+.para
+{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
